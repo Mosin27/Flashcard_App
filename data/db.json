@@ -1,0 +1,80 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    },
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 2
+    },
+    {
+      "name": "Test Deck",
+      "description": "Text ",
+      "id": 4
+    },
+    {
+      "name": "Test Deck 1",
+      "description": "Test description ",
+      "id": 5
+    }
+  ],
+  "cards": [
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
+      "back": "All paths. A route with no path matches all URL's",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "front": "test card",
+      "back": "test",
+      "deckId": 1,
+      "id": 8
+    },
+    {
+      "front": "test card",
+      "back": "test card",
+      "deckId": 1,
+      "id": 10
+    },
+    {
+      "front": "test 1",
+      "back": "test 1",
+      "deckId": 1,
+      "id": 11
+    },
+    {
+      "front": "test",
+      "back": "test",
+      "deckId": 4,
+      "id": 12
+    },
+    {
+      "front": "test ",
+      "back": "test",
+      "deckId": 4,
+      "id": 13
+    },
+    {
+      "front": "test ",
+      "back": "card",
+      "deckId": 5,
+      "id": 14
+    }
+  ]
+}
